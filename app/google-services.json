@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1037158602929",
+    "project_id": "wastewise-87bd9",
+    "storage_bucket": "wastewise-87bd9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037158602929:android:29f756a26c8b8531cc2a90",
+        "android_client_info": {
+          "package_name": "app.waste2wealth.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037158602929-iqukae4831s6pluktgegt23nlsoso28g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.waste2wealth.com",
+            "certificate_hash": "f5741cc0e95a212b81aa20c22445280cdb36cdb6"
+          }
+        },
+        {
+          "client_id": "1037158602929-chvd9c87v6jtaajhchmrvj8cfsbimje2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjNqn3nE489eTzjvtyx30orh_PbyXDPkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037158602929-chvd9c87v6jtaajhchmrvj8cfsbimje2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
