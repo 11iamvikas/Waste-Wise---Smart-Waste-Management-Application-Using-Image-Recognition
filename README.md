@@ -85,8 +85,8 @@ It provides an excellent trade-off between **latency** and **accuracy**, making 
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone (https://github.com/11iamvikas/Waste-Wise---Smart-Waste-Management-Application-Using-Image-Recognition)
-cd Waste Wise
+git clone [https://github.com/11iamvikas/Waste-Wise---Smart-Waste-Management-Application-Using-Image-Recognition.git](https://github.com/11iamvikas/Waste-Wise---Smart-Waste-Management-Application-Using-Image-Recognition.git)
+cd Waste-Wise---Smart-Waste-Management-Application-Using-Image-Recognition
 ---
 ### 2️⃣ Firebase Configuration
 To connect the app to the backend, follow these steps:
